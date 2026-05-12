@@ -1,0 +1,6 @@
+paddlepaddle==2.6.2
+paddleocr==2.7.3
+opencv-python>=4.6.0
+Pillow>=10.0.0
+numpy>=1.24.0
+gradio>=6.0.0

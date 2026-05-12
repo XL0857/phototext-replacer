@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.tiff
+.env
+.vscode/
+.idea/
+*.egg-info/
+dist/
+build/
